@@ -1,6 +1,8 @@
 # ScrapingJurnal
 tools untuk mencari link jurnal yang berbasi python
 
-requirement:
+requirement: 
+
 pip install time
+
 pip install bs4
